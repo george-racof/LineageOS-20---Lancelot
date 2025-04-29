@@ -1,5 +1,3 @@
-:
-
 📱 LineageOS 20 for Xiaomi Redmi 9 (lancelot)
 
 📦 About this Project
