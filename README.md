@@ -1,10 +1,12 @@
 📱 LineageOS 20 for Xiaomi Redmi 9 (lancelot)
 
 📦 About this Project
+
 Custom-built LineageOS 20 images for the Xiaomi Redmi 9 (lancelot) based on Android 13.
 This ROM brings a clean, fast, and near-stock Android experience with the latest security patches and updates.
 
 ⚡ Features
+
 Pure AOSP + LineageOS enhancements
 
 Wi-Fi, Bluetooth, LTE, VoLTE fully functional
@@ -29,6 +31,8 @@ RAM	3GB/4GB/6GB LPDDR4X
 Storage	32GB/64GB/128GB eMMC 5.1
 Screen	6.53" 2340×1080 LCD
 Battery	5020mAh
+
+
 📋 Build Information
 
 Field	Detail
@@ -38,6 +42,8 @@ Build Type	UNOFFICIAL
 SELinux	Enforcing
 Kernel	Stock-based (4.14+)
 Security Patch	(Insert patch date)
+
+
 📥 Installation Guide
 Pre-requisites:
 
@@ -52,6 +58,7 @@ Steps:
 3. Flash the provided images (system, vendor, boot, etc).
 4. Format Data (if needed).
 5. Reboot and enjoy!
+
 ⚙️ Working:
 Wi-Fi
 
@@ -89,6 +96,7 @@ System, Vendor, Boot Images	Download Here
 TWRP Recovery (Recommended)	Download Here
 
 🛠 Credits
+
 LineageOS Team
 
 Xiaomi
