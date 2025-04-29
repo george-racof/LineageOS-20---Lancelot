@@ -3,7 +3,7 @@
 📦 About this Project
 
 Custom-built LineageOS 20 images for the Xiaomi Redmi 9 (lancelot) based on Android 13.
-This ROM brings a clean, fast, and near-stock Android experience with the latest security patches and updates.
+This ROM brings a clean, fast, and near-stock Android experience.
 
 ⚡ Features
 
