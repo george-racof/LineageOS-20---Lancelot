@@ -106,6 +106,8 @@ Xiaomi
 Everyone who contributed to MediaTek devices support ❤️
 
 📜 Disclaimer
+
+
 I am not responsible for any damage to your device.
 
 Flashing custom ROMs voids your warranty.
