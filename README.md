@@ -47,9 +47,6 @@ Installed custom recovery (e.g., TWRP or Lineage Recovery)
 
 Steps:
 
-bash
-Copy
-Edit
 1. Reboot into recovery.
 2. Wipe system, data, cache.
 3. Flash the provided images (system, vendor, boot, etc).
